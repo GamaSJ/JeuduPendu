@@ -1,6 +1,6 @@
 Hello!
 
-For you to use this code you have to do the following:
+For you to play the game you have to do the following:
 
 a) Create a txt file with words (one per line, all in lower case).
    An example of such file is available under the name "mots_pendu.txt". You can use it directly to run the game.
