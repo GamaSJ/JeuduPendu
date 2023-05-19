@@ -14,7 +14,7 @@ b) Make sure to save the aforementioned .txt file in the same directory as the c
    
 C) Download the code & Run the Game!
    NOTE: By default, the user/player have 6 attemps.
-   If desired, you can chance such value inside the function "Gameplay"
+   If desired, you can change such value inside the function "gameplay", look for variable "attemps_left"
    
    
 D) Have fun while playing!
