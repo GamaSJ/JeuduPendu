@@ -22,7 +22,7 @@ def gameplay(secret_word):
     initial_default_guess = False
     # defined empty list to save the multiple guesses by the user, to be filled in loops below
     guessed_letters = []
-    attemps_left = 10 #defined by default
+    attemps_left = 6 #defined by default
     print("A ramdom word was selected, let's play!. By default you have " + str(attemps_left) + " attemps")
     print (word_random_len)
     # Loop that will continue running until the initial_default_guess becomes "True" or user runs out of "attemps"
