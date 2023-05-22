@@ -109,7 +109,7 @@ def master():
     # All words is the reference file shall be lower case
     file_name = input("First, please type the txt file name (including the .txt extension) containing secrets words: ")
     secret_word = word_to_guess(file_name)
-    #secret_word = "bebea"
+    
     gameplay(secret_word)
 
 
